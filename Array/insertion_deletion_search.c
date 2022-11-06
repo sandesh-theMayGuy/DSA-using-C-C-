@@ -1,3 +1,5 @@
+//Menu driven program to perform insertion(push) , deletion(pop) and search operation on an array using functions
+
 #include<stdio.h>
 int arr[100] , size ,i;
 
